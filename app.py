@@ -1,2 +1,2 @@
-massage = "Hello, ITF-Lab"
-print(massage)
+message = "Hello, ITF-Lab!!!"
+print(message)
